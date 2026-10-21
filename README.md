@@ -35,4 +35,4 @@ Coach: Strong inputs, strong output. Baseline is locked in. Keep this pattern co
 
 ## Stack
 
-Python, scikit-learn, pandas, FastAPI
+Python, scikit-learn, pandas, FastAPI.
